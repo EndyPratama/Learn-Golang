@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/54503473/143963530-e43b5ffa-828b-4c6e-9c5f-dfce76bc1476.png)
+
 # Go-Lang Intro
 
 Hello Everyone, Back again with me. Here we will learn a new language, namely Golang. Maybe not a few of you who don't know what Golang is. The Golang language is currently popular, now many companies are using this new programming language such as Tokopedia, Gojek. This programming language looks great, let's get to know more about Golang with me.
